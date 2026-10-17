@@ -1,0 +1,24 @@
+##Some Basic Git Commands:-
+1) git init: It creates a new, empty git repository or reinitializes an existing one
+
+2) git clone: It copies a repository from GitHub
+
+3) git status: It displays the current state of your Git working directory and staging area.
+
+4) git add: It moves changes from your working directory to the staging area
+
+5) git commit: It captures a local snapshot of your project's currently staged changes and permanently records it to your repository's history
+
+6) git log: It displays the commit history of a Git repository
+
+7) git diff: It displays the exact line-by-line differences between different states of your repository
+
+8) git push: It uploads your local repository commits to a remote repository
+
+9) git pull: It downloads the latest changes from a remote repository and immediately integrates them into your local working branch
+
+10) git fetch: It downloads commits, files, and tracking references from a remote repository into your local repository, without modifying your current working files or active branch
+
+11) git branch: It is a branch management tool that allows you to list, create, rename, and delete branches within a Git repository
+
+12) git switch: It is used to navigate between branches in a Git repository
